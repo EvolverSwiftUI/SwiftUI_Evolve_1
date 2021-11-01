@@ -12,7 +12,7 @@ struct SwiftUI_Evolve_JourneyApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            ViewModelBootCamp()
+            AppStorageBootCamp()
         }
     }
 }

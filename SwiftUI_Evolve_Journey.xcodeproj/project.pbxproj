@@ -35,6 +35,8 @@
 		7F4E7EAD272ED6C700735CD2 /* TapGestureBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4E7EAC272ED6C700735CD2 /* TapGestureBootCamp.swift */; };
 		7F4E7EB0272EDBF800735CD2 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4E7EAF272EDBF800735CD2 /* ModelBootcamp.swift */; };
 		7F4E7EB4272EE6D300735CD2 /* ViewModelBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4E7EB3272EE6D300735CD2 /* ViewModelBootCamp.swift */; };
+		7F4E7EB7272F983400735CD2 /* EnvironmentObjectBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4E7EB6272F983400735CD2 /* EnvironmentObjectBootCamp.swift */; };
+		7F4E7EBA272FAF4900735CD2 /* AppStorageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4E7EB9272FAF4900735CD2 /* AppStorageBootCamp.swift */; };
 		7F6C3B5127298E9900E70B8E /* ImageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6C3B5027298E9900E70B8E /* ImageBootCamp.swift */; };
 		7F6C3B5427299F3E00E70B8E /* FrameBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6C3B5327299F3E00E70B8E /* FrameBootCamp.swift */; };
 		7F6C3B572729A9FD00E70B8E /* BackgroundAndOverlaysBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F6C3B562729A9FD00E70B8E /* BackgroundAndOverlaysBootCamp.swift */; };
@@ -93,6 +95,8 @@
 		7F4E7EAC272ED6C700735CD2 /* TapGestureBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootCamp.swift; sourceTree = "<group>"; };
 		7F4E7EAF272EDBF800735CD2 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 		7F4E7EB3272EE6D300735CD2 /* ViewModelBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelBootCamp.swift; sourceTree = "<group>"; };
+		7F4E7EB6272F983400735CD2 /* EnvironmentObjectBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootCamp.swift; sourceTree = "<group>"; };
+		7F4E7EB9272FAF4900735CD2 /* AppStorageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootCamp.swift; sourceTree = "<group>"; };
 		7F6C3B5027298E9900E70B8E /* ImageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootCamp.swift; sourceTree = "<group>"; };
 		7F6C3B5327299F3E00E70B8E /* FrameBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootCamp.swift; sourceTree = "<group>"; };
 		7F6C3B562729A9FD00E70B8E /* BackgroundAndOverlaysBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlaysBootCamp.swift; sourceTree = "<group>"; };
@@ -201,6 +205,8 @@
 				7F4E7EAC272ED6C700735CD2 /* TapGestureBootCamp.swift */,
 				7F4E7EAF272EDBF800735CD2 /* ModelBootcamp.swift */,
 				7F4E7EB3272EE6D300735CD2 /* ViewModelBootCamp.swift */,
+				7F4E7EB6272F983400735CD2 /* EnvironmentObjectBootCamp.swift */,
+				7F4E7EB9272FAF4900735CD2 /* AppStorageBootCamp.swift */,
 				7F3A12422726C98F000E3C95 /* Assets.xcassets */,
 				7F3A12472726C98F000E3C95 /* Info.plist */,
 				7F3A12442726C98F000E3C95 /* Preview Content */,
@@ -324,6 +330,7 @@
 				7F6C3B5127298E9900E70B8E /* ImageBootCamp.swift in Sources */,
 				7F6C3B63272A8BE400E70B8E /* InitializerBootCamp.swift in Sources */,
 				7F6C3B572729A9FD00E70B8E /* BackgroundAndOverlaysBootCamp.swift in Sources */,
+				7F4E7EB7272F983400735CD2 /* EnvironmentObjectBootCamp.swift in Sources */,
 				7F6C3B5A2729C37300E70B8E /* StacksBootCamp.swift in Sources */,
 				7F3A124F2726C9AE000E3C95 /* TextBootCamp.swift in Sources */,
 				7F6C3B5427299F3E00E70B8E /* FrameBootCamp.swift in Sources */,
@@ -334,6 +341,7 @@
 				7F97D767272C28AF000BB9BC /* AnimationBootCamp.swift in Sources */,
 				7F4E7EAD272ED6C700735CD2 /* TapGestureBootCamp.swift in Sources */,
 				7F4E7EA7272EC8F500735CD2 /* OnAppearBootCamp.swift in Sources */,
+				7F4E7EBA272FAF4900735CD2 /* AppStorageBootCamp.swift in Sources */,
 				7F97D779272C9606000BB9BC /* ListBootCamp.swift in Sources */,
 				7F97D76D272C3FE4000BB9BC /* TransitionsBootCamp.swift in Sources */,
 			);
