@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUI_Evolve_JourneyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            ViewModelBootCamp()
         }
     }
 }
