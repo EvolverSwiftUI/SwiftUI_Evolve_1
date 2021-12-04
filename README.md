@@ -1,4 +1,4 @@
-# SwiftUI_Evolve
+# SwiftUI_Evolve_1
 
 In this project added SwiftUI related basics
 1. Text
@@ -35,4 +35,3 @@ In this project added SwiftUI related basics
 17. SearchBar
 18. TabView
 19. NavigationBar
-20. 
